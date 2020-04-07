@@ -1,0 +1,7 @@
+<?php
+
+$operadores= "+,-,*,/,%,**";
+
+echo $operadores;
+
+?>
